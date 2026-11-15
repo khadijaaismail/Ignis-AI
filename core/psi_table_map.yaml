@@ -1,0 +1,66 @@
+tables:
+  - psi_id: PSI-26
+    filename: BASS_PSI-26.csv
+  - psi_id: PSI-25
+    filename: BASS-II_PSI-25.csv
+    oxygen_columns: [Calibrated  initial O2 % by vol]
+    oxygen_unit: percent
+  - psi_id: PSI-20
+    filename: ACME_BRE_PSI-20.csv
+  - psi_id: PSI-107
+    filename: Spice_PSI-107.csv
+    flow_column: Air Rate (cm/s)
+  - psi_id: PSI-106
+    filename: Slice_PSI-106.csv
+  - psi_id: PSI-102
+    filename: SAME_PSI-102.csv
+    flow_column: Inlet velocity (cm/s)
+  - psi_id: PSI-101
+    filename: SAME-R_PSI-101.csv
+    flow_column: Inlet velocity (cm/s)
+  - psi_id: PSI-98
+    filename: Saffire-I_PSI-98.csv
+    oxygen_columns: [Percent O2]
+    oxygen_unit: percent
+    flow_column: Air Flow (cm/s)
+  - psi_id: PSI-99
+    filename: Saffire-II_PSI-99.csv
+    oxygen_columns: [Percent O2 (Note 1)]
+    oxygen_unit: percent
+    flow_column: Air Flow (cm/s)
+  - psi_id: PSI-100
+    filename: Saffire-III_PSI-100.csv
+    flow_column: Air Flow
+  - psi_id: PSI-68
+    filename: PSI-68_Experimental table_Flex2.csv
+    oxygen_columns: [Oxygen Mole Fraction]
+    oxygen_unit: fraction
+    pressure_column: Ambient Pressure (atm)
+    pressure_unit: atm
+    flow_column: Flow Velocity (cm/s)
+  - psi_id: PSI-69
+    filename: FLEX_PSI-69.csv
+    oxygen_columns: [O initial ambient composition; mole fraction]
+    oxygen_unit: fraction
+    pressure_column: Ambient pressure; mmHg
+    pressure_unit: mmHg
+  - psi_id: PSI-68
+    filename: Flex2_PSI-68.csv
+    oxygen_columns: [Oxygen Mole Fraction]
+    oxygen_unit: fraction
+    pressure_column: Ambient Pressure (atm)
+    pressure_unit: atm
+    flow_column: Flow Velocity (cm/s)
+  - psi_id: PSI-39
+    filename: CFI_PSI-39.csv
+    oxygen_columns: [Oxygen]
+    oxygen_unit: fraction
+    pressure_column: Pressure
+    pressure_unit: atm
+  - psi_id: PSI-159
+    filename: CFI-G_Normal_Flames_PSI-159.csv
+    oxygen_columns: [XO2 before test, XO2  after test]
+    oxygen_unit: fraction
+    oxygen_role: stream
+    pressure_column: approx p (bar)
+    pressure_unit: bar

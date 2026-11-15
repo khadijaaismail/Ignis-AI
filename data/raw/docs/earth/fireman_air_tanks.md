@@ -1,0 +1,5 @@
+## fireman_air_tanks
+source: https://spinoff.nasa.gov/node/9582
+Publication Date: January 1, 1976
+
+Together with NASA's Johnson Space Center, A-T-O Inc.'s Scott Aviation has developed light-weight firefighter's air tanks. New backpack system weighs only 20 pounds for 30 minute air supply, 13 pounds less than conventional firefighting tanks. They are pressurized at 4,500 psi, (twice current tanks). Made of aluminum liner wrapped by resin-impregnated glass fibers, eliminating corrosion as well as lightening the load. Redesigned face mask permits better vision. Warning device to tell fireman he is running out of air is personalized so it can't be heard by others reducing confusion in an already hectic environment. Structural Composites Inc., The Boeing Co., and Martin-Marietta Corp. have developed uses for this technology.

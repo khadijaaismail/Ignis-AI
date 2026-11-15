@@ -1,0 +1,74 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Validate ingest change",
+			"type": "shell",
+			"command": "c:/Users/DELL/Documents/Ignis-AI/.venv/Scripts/python.exe",
+			"args": [
+				"-m",
+				"core.ingest",
+				"seed"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Check statuses and tests",
+			"type": "shell",
+			"command": "c:/Users/DELL/Documents/Ignis-AI/.venv/Scripts/python.exe",
+			"args": [
+				"-c",
+				"import csv; from pathlib import Path; p=Path('data/processed/experiments.csv'); rows={r['slug']:r for r in csv.DictReader(p.open(encoding='utf-8'))}; print({s: rows[s]['conditions_status'] for s in ('bre','flex-2','cfi-g')})"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Show condition statuses",
+			"type": "shell",
+			"command": "c:/Users/DELL/Documents/Ignis-AI/.venv/Scripts/python.exe",
+			"args": [
+				"-c",
+				"import csv; from pathlib import Path; p=Path(\"data/processed/experiments.csv\"); rows={r[\"slug\"]:r for r in csv.DictReader(p.open(encoding=\"utf-8\"))}; print({s: rows[s][\"conditions_status\"] for s in (\"bre\",\"flex-2\",\"cfi-g\")})"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Run ingest tests",
+			"type": "shell",
+			"command": "pytest",
+			"args": [
+				"-q",
+				"tests/test_ingest.py"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Run ingest tests via Python",
+			"type": "shell",
+			"command": "c:/Users/DELL/Documents/Ignis-AI/.venv/Scripts/python.exe",
+			"args": [
+				"-m",
+				"pytest",
+				"-q",
+				"tests/test_ingest.py"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Check changed files",
+			"type": "shell",
+			"command": "git",
+			"args": [
+				"diff",
+				"--name-only"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		}
+	]
+}

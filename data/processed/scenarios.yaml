@@ -1,0 +1,83 @@
+- key: lunar_habitat
+  name: Lunar habitat
+  o2_target_pct: 30.0
+  o2_is_minimum: true
+  pressure_max_psi: 10.2
+  pressure_target_psi: null
+  gravity_regime: unknown
+  airflow_note: null
+  material_priorities:
+  - fabrics
+  - plastics
+  source_note: Challenge-provided reference; O2 target applies to chamber O2 only.
+  assumptions: ''
+- key: lunar_rover
+  name: Lunar rover
+  o2_target_pct: 30.0
+  o2_is_minimum: true
+  pressure_max_psi: 10.2
+  pressure_target_psi: null
+  gravity_regime: unknown
+  airflow_note: null
+  material_priorities:
+  - fabrics
+  - plastics
+  source_note: The challenge groups rovers with the Moon base; O2 target applies to
+    chamber O2 only.
+  assumptions: ''
+- key: iss
+  name: ISS
+  o2_target_pct: null
+  o2_is_minimum: false
+  pressure_max_psi: null
+  pressure_target_psi: null
+  gravity_regime: unknown
+  airflow_note: null
+  material_priorities:
+  - fabrics
+  - plastics
+  source_note: Values not stated in the challenge, confirm from official resources.
+    O2 target applies to chamber O2 only.
+  assumptions: ''
+- key: spacecraft
+  name: Spacecraft
+  o2_target_pct: null
+  o2_is_minimum: false
+  pressure_max_psi: null
+  pressure_target_psi: null
+  gravity_regime: unknown
+  airflow_note: null
+  material_priorities:
+  - fabrics
+  - plastics
+  source_note: Values not stated in the challenge, confirm from official resources.
+    O2 target applies to chamber O2 only.
+  assumptions: ''
+- key: mars_habitat
+  name: Mars habitat
+  o2_target_pct: null
+  o2_is_minimum: false
+  pressure_max_psi: null
+  pressure_target_psi: null
+  gravity_regime: unknown
+  airflow_note: null
+  material_priorities:
+  - fabrics
+  - plastics
+  source_note: Values not stated in the challenge, confirm from official resources.
+    O2 target applies to chamber O2 only.
+  assumptions: ''
+- key: mars_rover
+  name: Mars rover
+  o2_target_pct: null
+  o2_is_minimum: false
+  pressure_max_psi: null
+  pressure_target_psi: null
+  gravity_regime: unknown
+  airflow_note: null
+  material_priorities:
+  - fabrics
+  - plastics
+  source_note: Values not stated in the challenge, confirm from official resources.
+    O2 target applies to chamber O2 only.
+  assumptions: ''

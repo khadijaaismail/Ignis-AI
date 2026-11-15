@@ -1,0 +1,98 @@
+id,experiment_slug,title,doc_type,source_url,content_hash,local_path
+doc-5cbaa49de45c8dee,saffire-iii,Spacecraft Fire Experiment-III,psi_record,,5cbaa49de45c8dee3154c33d1b7387a82307b1be112a4d8b6bb29731883a465e,C:/Users/DELL/Documents/Ignis-AI/data/raw/curated/psi_isa_text_fields.csv
+doc-68530e82dbe0c5c3,same,Smoke and Aerosol Measurement Experiment,psi_record,,68530e82dbe0c5c38a84bf9fe0e5ba9dbfd8651cbaae0373cab5e534f6c5c76d,C:/Users/DELL/Documents/Ignis-AI/data/raw/curated/psi_isa_text_fields.csv
+doc-c2997fef1b57469b,slice,Structure and Liftoff In Combustion Experiment,psi_record,,c2997fef1b57469b7ffe91b6aa7af3e35c78f1be68e3fee8c2762f7cbfa94d3c,C:/Users/DELL/Documents/Ignis-AI/data/raw/curated/psi_isa_text_fields.csv
+doc-d2836f67571dd01d,spice,Smoke Point In Co-flow Experiment,psi_record,,d2836f67571dd01dc85e80d420e8f897e289b74b4969eef47d3f96cbf293e5fd,C:/Users/DELL/Documents/Ignis-AI/data/raw/curated/psi_isa_text_fields.csv
+doc-a096a68abb926929,flame-design,Advanced Combustion via Microgravity Experiments / Flame Design,psi_record,,a096a68abb92692985416d39fdd4b2d5767c8ca250ee5d3023926031029ee320,C:/Users/DELL/Documents/Ignis-AI/data/raw/curated/psi_isa_text_fields.csv
+doc-8a04311f9f4be4ef,psi-115,Utilization of the Smoke Aerosol Measurement Experiment Data for Advanced Modeling and Simulation of Smoke Generation in Micro-Gravity,psi_record,,8a04311f9f4be4ef114dca96e5cb030c0e6a52e63729f1190733fc23a0e8a6b7,C:/Users/DELL/Documents/Ignis-AI/data/raw/curated/psi_isa_text_fields.csv
+doc-c654d5b220504153,psi-117,Effect of External Thermo-Convective Perturbation on Cool Flame Dynamics: A Multidimensional Multi-Physics CFD Analysis,psi_record,,c654d5b2205041536caf2bfb1c7401453c879f91848ea273a3a375ce5a0d5f17,C:/Users/DELL/Documents/Ignis-AI/data/raw/curated/psi_isa_text_fields.csv
+doc-7622a36ca4a4f22b,psi-142,Quantitative Studies of Cool Flame Transitions at Radiation / Stretch Extinction Using Counterflow Flames,psi_record,,7622a36ca4a4f22bc07083a05bad201894abdf1fbdfe436cb43bd43438d7795e,C:/Users/DELL/Documents/Ignis-AI/data/raw/curated/psi_isa_text_fields.csv
+doc-1657f087b4d11d7f,cfi-g,Advanced Combustion via Microgravity Experiments / Cool Flames Investigation with Gases,psi_record,,1657f087b4d11d7f6ba3e52455f478db990ad0f8f9c81a4b6fc9cc78b01f8eae,C:/Users/DELL/Documents/Ignis-AI/data/raw/curated/psi_isa_text_fields.csv
+doc-26ab2d56ad08df14,bre,Advanced Combustion via Microgravity Experiments - Burning Rate Emulator,psi_record,,26ab2d56ad08df14c941c9ded2c028086914449941c8bf1d43b1f5f56f71c0f5,C:/Users/DELL/Documents/Ignis-AI/data/raw/curated/psi_isa_text_fields.csv
+doc-c5a427725e6adab6,acme-cld-flame,Advanced Combustion via Microgravity Experiments / Coflow Laminar Diffusion Flame,psi_record,,c5a427725e6adab6acd90e8425f277676de4f43134786255873413a9230b8625,C:/Users/DELL/Documents/Ignis-AI/data/raw/curated/psi_isa_text_fields.csv
+doc-4363696ec1d589fa,e-field-flames,Advanced Combustion via Microgravity Experiments Electric-Field Effects on Laminar Diffusion Flames,psi_record,,4363696ec1d589fa914b7cd387e6aebac9a2b36d6f6bd0f6750a5a619aa59ae7,C:/Users/DELL/Documents/Ignis-AI/data/raw/curated/psi_isa_text_fields.csv
+doc-83fd779e7ccf0c39,acme-s-flame,Advanced Combustion via Microgravity Experiments-Structure and Response of Spherical Diffusion Flames,psi_record,,83fd779e7ccf0c39a30304aec58be43692cb7c9efd24ccbea5348fb4465e6b50,C:/Users/DELL/Documents/Ignis-AI/data/raw/curated/psi_isa_text_fields.csv
+doc-fb4e84d86931a95a,bass-ii,Burning and Suppression of Solids - II,psi_record,,fb4e84d86931a95a60d7e1609d2515f836b37e04e54eff3f773409d2afc96c74,C:/Users/DELL/Documents/Ignis-AI/data/raw/curated/psi_isa_text_fields.csv
+doc-d698054ac0db6f66,bass,Burning and Suppression of Solids,psi_record,,d698054ac0db6f66e1f76d912ec254a6a936170634f5cd5f7099032eab1d5b1d,C:/Users/DELL/Documents/Ignis-AI/data/raw/curated/psi_isa_text_fields.csv
+doc-f5b20418f5542e5f,cfi,Cool Flames Investigation,psi_record,,f5b20418f5542e5f73138c242f15209f80906dd6b0ebdd563c9b377fd8b1c6de,C:/Users/DELL/Documents/Ignis-AI/data/raw/curated/psi_isa_text_fields.csv
+doc-99a4feee598b5729,daft,Dust and Aerosol Measurement Feasibility Test / Dust and Aerosol Measurement Feasibility Test-2,psi_record,,99a4feee598b57291d5d4d84eedbaadb1ec6cfbe868713f8d8fe3a154638a87a,C:/Users/DELL/Documents/Ignis-AI/data/raw/curated/psi_isa_text_fields.csv
+doc-42eba6fd10bea1b0,psi-60,Computational and Experimental Analysis of SPICE Data Sets,psi_record,,42eba6fd10bea1b0ba8fe358da01b49fd23491dbdcb17f8ae8dfde9f71e25827,C:/Users/DELL/Documents/Ignis-AI/data/raw/curated/psi_isa_text_fields.csv
+doc-13e6fd56335b1033,psi-62,Concurrent Flame Spread Modeling using Flamelet Generated Manifolds in Microgravity with Comparison to BASS Experiments using Two-Color Tomography,psi_record,,13e6fd56335b1033f769bd57ab802a3c438eb926c811376ebc8633a19704212b,C:/Users/DELL/Documents/Ignis-AI/data/raw/curated/psi_isa_text_fields.csv
+doc-d68354b231275d07,flex-2,Flame Extinguishment Experiment - 2,psi_record,,d68354b231275d0792f95bdc23ee4b11c42f0aafe76ddece79db61d19c1fc0b5,C:/Users/DELL/Documents/Ignis-AI/data/raw/curated/psi_isa_text_fields.csv
+doc-04776210566bde86,flex,Flame Extinguishment Experiment,psi_record,,04776210566bde86e755b795890fe2d3f4e346ec8e312cb946f68de972a32f8d,C:/Users/DELL/Documents/Ignis-AI/data/raw/curated/psi_isa_text_fields.csv
+doc-e246efcb32547432,saffire-i,Spacecraft Fire Safety Experiment-I,psi_record,,e246efcb325474321244c2c61aafbe7d1c1be7414e1e3671bd826dd37e1d0c6c,C:/Users/DELL/Documents/Ignis-AI/data/raw/curated/psi_isa_text_fields.csv
+doc-3b89954ec5c599be,saffire-ii,Spacecraft Fire Experiment-II,psi_record,,3b89954ec5c599be56469a8ffd0011214c0448d5ef71c13b5eb94e8d211d3bf3,C:/Users/DELL/Documents/Ignis-AI/data/raw/curated/psi_isa_text_fields.csv
+doc-291ca576d7b463fd,bass,BASS,psi_record,,291ca576d7b463fd1f5d1cb6db10fd4ff3b3a0d0110a3608fe80dcb1c22514d6,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-eb83aa325ee68932,bass-ii,BASS-II,psi_record,,eb83aa325ee689328bc8080e6574ad43f5f7075ee925b62eba5f08975a77e9b7,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-4f4dd9f3e48ec372,saffire-i,Saffire-I,psi_record,,4f4dd9f3e48ec372180d8d6fbe76ff9bb86575ad6a8e56169c9e38f38ba0bf65,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-0b35afd919117764,saffire-ii,Saffire-II,psi_record,,0b35afd9191177646865663a0a136323ac76137a12c18251a596ca62ba99e1a7,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-de0da3ea3615297c,saffire-iii,Saffire-III,psi_record,,de0da3ea3615297cca6e822d45671695a7ab08ca5e5e84220aec0c6209a83d60,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-bfb837ebc17a265a,same,SAME,psi_record,,bfb837ebc17a265a7abda3426321e4f831dab94fa0e5cf1b14107ab5586dfce3,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-e7996e0f18e4ee86,same-r,SAME-R,psi_record,,e7996e0f18e4ee861d4026e2d4e14fe89594a60afc5431858632412aa3a84d23,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-e56d76fc7b114bd1,flex,FLEX,psi_record,,e56d76fc7b114bd1fe86a639f10a80f1e996f2a635800dcfebe2940855300b03,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-8c08ad929e3f8797,flex-2,FLEX-2,psi_record,,8c08ad929e3f8797cfaf4c1fc0630e8ca61302b34c7b02429fadd450b7abe6ee,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-69aa3bf520c3804b,cfi,CFI,psi_record,,69aa3bf520c3804b5cd0110aa87a7e8de3c52be45054c1428034dde4f5766ba6,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-aec3265607001e1a,cfi-g,CFI-G,psi_record,,aec3265607001e1a7846ac06fec1ed897d6980ce17974a6b64578d9c026b1653,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-f6034a1a1ba1af94,e-field-flames,E-FIELD Flames,psi_record,,f6034a1a1ba1af94bd81a3aa356e701ef7d07b8a90b7fdc779efecadae7cedb5,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-657d8870eea057ad,flame-design,ACME Flame Design,psi_record,,657d8870eea057adb3e02ffe8994b00beda40512006aeafa5de21b3b13719340,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-e714e2ce9348e852,acme-cld-flame,ACME CLD Flame,psi_record,,e714e2ce9348e8527eccb217678128541348351e2e7d8fdc78dd641245969a93,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-40f1b5d02aa16a27,acme-s-flame,ACME s-Flame,psi_record,,40f1b5d02aa16a270ece66772be7f65dfebcd2b5fd5c29c4e452ff9398289d5c,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-5efdbbc9bcc02a78,bre,ACME BRE,psi_record,,5efdbbc9bcc02a78993e6e91be1d7884e3fd04b34075f1667e248cfb357e1e9c,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-a005e0a9a4df0a73,spice,SPICE,psi_record,,a005e0a9a4df0a7349052fb6c3539df8c18fb3ff74067c60834ab67d1bfdbf4f,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-9a61a224a6a68422,slice,SLICE,psi_record,,9a61a224a6a6842275c22edf4b8e860c6d26c907a456f6f650f60ab77875a2ca,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-0fbbd91ab6786163,daft,DAFT / DAFT-2,psi_record,,0fbbd91ab6786163220bfb1e626e662c1de943ad635ad2adda2460af297a45f4,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-c104fb14d37c9cad,psi-117,PSI-117 (model),psi_record,,c104fb14d37c9cad37c4eda7876913669e2a0ec3661c329ba068598d027575b7,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-6c836f3acccf0c15,psi-62,PSI-62 (model),psi_record,,6c836f3acccf0c15903560c5f9b55ae7ce283ab99a1e4428ceb140aadf54206b,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-55e206b8d9c538a5,psi-60,PSI-60 (data analysis),psi_record,,55e206b8d9c538a515cf78f545e48ac2bafc0f535ff89374b02c973ff5cece5c,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-646e5a607c0881d5,psi-142,PSI-142 (model),psi_record,,646e5a607c0881d5fe1648180f8783451c295c9bf0acb603dafdc77879006406,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-1880e74bcbc23803,psi-115,PSI-115 (model),psi_record,,1880e74bcbc2380364b29e2db4f04e23d64f5d3ae7a249cf3969029124117715,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-5d498528454b2d0d,,Challenge specification,challenge_text,,5d498528454b2d0d2d652cf8acb79862a0701158031e3ba6b6a702fdc46b50aa,C:/Users/DELL/Documents/Ignis-AI/docs/spec.md
+doc-ef369d4944563134,psi-115,Utilization of the Smoke Aerosol Measurement Experiment Data for Advanced Modeling and Simulation of Smoke Generation in Micro-Gravity,psi_record,,ef369d4944563134a411b312ee34bf7b9c0dc00fb5ce3966272260d78003b158,C:/Users/DELL/Documents/Ignis-AI/data/raw/docs/psi_isa_text_fields.csv
+doc-d505a2ab860714c7,bass,BASS,psi_record,,d505a2ab860714c705b99d7d9cd9e04d693a658e548a65fd282b30552a2266a4,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-8154cd0d96c875e1,bass-ii,BASS-II,psi_record,,8154cd0d96c875e1bb6487a953bb0439b8c11570390c14ffabca0dcaa0827c4b,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-55facc6666e7bd9b,saffire-i,Saffire-I,psi_record,,55facc6666e7bd9b3bdbbd65eb13facb8e7b6a97043824cf669e57865f58690c,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-3fb253fa34fec433,saffire-ii,Saffire-II,psi_record,,3fb253fa34fec433099a016057a24f198b0aa515ad9c1cc904a2f5dcb7b48b3f,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-3d21ee2bc936cdf9,saffire-iii,Saffire-III,psi_record,,3d21ee2bc936cdf9dbad353076f833d460dd6214742d1e1ae5b865368bf53c05,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-1a0a9246cef52a96,same,SAME,psi_record,,1a0a9246cef52a9616c27d32ae699e923398f07360d907b09ffb029c0a3019c7,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-f3b2a40d08a966ad,same-r,SAME-R,psi_record,,f3b2a40d08a966ad8557e35651f800e901c001763f4d7c725a43d8e4c4489ff1,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-93e2eea03ad716cf,flex,FLEX,psi_record,,93e2eea03ad716cf98d00bb782e0f240c4ae9a9ec0a4ff2ca135b4ab39b07290,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-3eb609b9f8f54002,flex-2,FLEX-2,psi_record,,3eb609b9f8f54002d2b8896ce49db5e4bce41132201d211eb5fad4cc46df8e4b,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-c550ef3a592e51bd,cfi,CFI,psi_record,,c550ef3a592e51bd5a38dbf095d5f1b5c396ca88adeb9eb33d1116ec6a5c4d28,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-6d6838ee501f444c,cfi-g,CFI-G,psi_record,,6d6838ee501f444c14c97d4551702b88ec72bc587ce5903e5f402a07a9dda6bf,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-dbaea088e79820c0,e-field-flames,E-FIELD Flames,psi_record,,dbaea088e79820c09dfedab2b6dd3265822cf52f8e729f5b2cf448fa9a9a7393,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-e41f477a6453a1cc,flame-design,ACME Flame Design,psi_record,,e41f477a6453a1cc3c0b6c7189cddfb44e4333951aa05a92263a780d878dd9d9,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-b06b0018a01c693e,acme-cld-flame,ACME CLD Flame,psi_record,,b06b0018a01c693e8c8c77bb5e0ff54e1b6954be6740410270d6f8fa0c37e2bd,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-1f24b99df3728782,acme-s-flame,ACME s-Flame,psi_record,,1f24b99df3728782d40b9218eea9170f84158c0950501ce139089ccf9d07dd13,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-bbb6ac13a82870b0,bre,ACME BRE,psi_record,,bbb6ac13a82870b05f84f928f0f79afbc475500d29353f9d8e4967b61ecebef9,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-a15c843b9a266d25,spice,SPICE,psi_record,,a15c843b9a266d25ce8d5b0197b86a1a8c9224a28bcafc502f2069f27150adf5,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-224a1de92c95c673,slice,SLICE,psi_record,,224a1de92c95c673707ed2150b1f533eb38ce8851af84ca5729ac173cbc4421d,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-73b615931c982411,daft,DAFT / DAFT-2,psi_record,,73b615931c98241135756e46dc70ad0c5ca43ecc6f5638b2ab4209235db18a9d,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-7e263d6c70b96cf3,psi-117,PSI-117 (model),psi_record,,7e263d6c70b96cf373c80d1b87b4a2f3b84927b741e70acc99fb0f772d07a774,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-11f7a5451e600e44,psi-62,PSI-62 (model),psi_record,,11f7a5451e600e440cab6071cee87f72b757c19c35dc66b513c8e1ca5b1ea972,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-97ee8cb41737e8b4,psi-60,PSI-60 (data analysis),psi_record,,97ee8cb41737e8b4f6484e8c68fcf34d64d9e7c6b36d4ac1f0721449c7f0f710,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-52895ce306cd7e34,psi-142,PSI-142 (model),psi_record,,52895ce306cd7e345f4058c3480c5f5a9273a547c8975d30f20273a8b3552902,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-e850492bd5017d4d,psi-115,PSI-115 (model),psi_record,,e850492bd5017d4d70efa750e7e05238d423613c79e8a4f6ad2fc249388d5367,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-42e3b6ab7f9a69af,bass,BASS,psi_record,,42e3b6ab7f9a69afd5d7044f55629af85e2e9fcf87619fd7de2571ad81f64e85,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-55631ef2d602b1e0,bass-ii,BASS-II,psi_record,,55631ef2d602b1e06e4c74232555fa058fce08c5f16af585b6c373ce1616fb46,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-112ec18b2b12416e,saffire-i,Saffire-I,psi_record,,112ec18b2b12416ec1667fb93d20a10887f2b847bc758d2d3eda14abe3ef4cf9,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-d2110ca9305cb74a,saffire-ii,Saffire-II,psi_record,,d2110ca9305cb74aa7a1418ead24ff49c1d021d1bb0efe29c74614e2f1702061,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-3192030a14a896b7,saffire-iii,Saffire-III,psi_record,,3192030a14a896b72171eda662ac8bbaeacd1d2a694f05bda0b89b1044518695,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-c24c9276b3d3e87d,same,SAME,psi_record,,c24c9276b3d3e87d538477c3a417bc1443400bea658db1305f984e63fc9806e6,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-75f164ac152bd67e,same-r,SAME-R,psi_record,,75f164ac152bd67ec0193e9e75ce31e7e883a345cb60291e50bac233111b8781,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-7a7a657014a967df,flex,FLEX,psi_record,,7a7a657014a967dfa618b80a2e950131fbc6b5a28c9e54fbc912bdd1a20a1526,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-485d8e63fecc555b,flex-2,FLEX-2,psi_record,,485d8e63fecc555b3fb27531cec67cbece557e3455b601f8148d3af7716a5185,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-fe5914bc2bd41531,cfi,CFI,psi_record,,fe5914bc2bd41531c297b89ba4c531d44c0c3e9dea2273725889c7b6ed5c30bd,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-6576f447799b95c1,cfi-g,CFI-G,psi_record,,6576f447799b95c1fd2183f19c25491b08737322389e41118e92d8654a74581b,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-92c7a70bbf161a62,e-field-flames,E-FIELD Flames,psi_record,,92c7a70bbf161a62b96d62c1d4b02be1500d9bee0020f02e3e50bbf6471a0b05,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-c3d4ddfa860f054c,flame-design,ACME Flame Design,psi_record,,c3d4ddfa860f054cc71882c16d7d2820d1cede7d6907c854ea2500d13d5020dd,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-f48b49fefe89ca21,acme-cld-flame,ACME CLD Flame,psi_record,,f48b49fefe89ca21eb3af2a9c0cbaa1e8296fd1e6cbb7e4916c897206c68204e,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-93b1b264534afa79,acme-s-flame,ACME s-Flame,psi_record,,93b1b264534afa79ac29a5b0572ac64308fcaaa4b5ab45fa17cf60838608b9c0,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-a8f37f1c35ab8e3d,bre,ACME BRE,psi_record,,a8f37f1c35ab8e3def8b94fb7d52a733dda8d00286fe469c7e7fb0f3e59b8005,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-1d9f8dbf10f10219,spice,SPICE,psi_record,,1d9f8dbf10f1021982b4e638b4b88273c5ad1f07eb78497e077333050ec46a94,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-93c9f10c49207a50,slice,SLICE,psi_record,,93c9f10c49207a50eb0901416488dd9234f4b2a97be904f4aa0a3980c43f7c8c,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-20abf9fd093c639c,daft,DAFT / DAFT-2,psi_record,,20abf9fd093c639c9c4a10e293a7037cc266bac4abf501135168740786bd9a60,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-c9865431d7b627d9,psi-117,PSI-117 (model),psi_record,,c9865431d7b627d982347d34934e41fd31841d5fad7ce80124082ab7ee0da999,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-3a6ff48da8017b67,psi-62,PSI-62 (model),psi_record,,3a6ff48da8017b676911309881bf47d05136ffdf5759b6d3d8cbd37b2d4dfeef,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-b9aeeb72c1585dbd,psi-60,PSI-60 (data analysis),psi_record,,b9aeeb72c1585dbda6d5049c4899a97de2864a2d40023ae24eef7de9d41827f6,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-b0a08e513c19c1c7,psi-142,PSI-142 (model),psi_record,,b0a08e513c19c1c784400c6b8bd50b56891695c9f40060a8547145f9c7eefcb3,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv
+doc-739b790dce7a3abc,psi-115,PSI-115 (model),psi_record,,739b790dce7a3abca61ad24e0cebee6605f92f0e02ac999cba81ae2db14f81aa,C:/Users/DELL/Documents/Ignis-AI/data/processed/experiments.csv

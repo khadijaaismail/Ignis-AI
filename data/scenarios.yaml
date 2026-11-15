@@ -1,0 +1,30 @@
+- key: lunar_habitat
+  name: Lunar habitat
+  o2_target_pct: 30
+  o2_is_minimum: true
+  pressure_max_psi: 10.2
+  material_priorities: [fabrics, plastics]
+  source_note: Challenge-provided reference; O2 target applies to chamber O2 only.
+- key: lunar_rover
+  name: Lunar rover
+  o2_target_pct: 30
+  o2_is_minimum: true
+  pressure_max_psi: 10.2
+  material_priorities: [fabrics, plastics]
+  source_note: The challenge groups rovers with the Moon base; O2 target applies to chamber O2 only.
+- key: iss
+  name: ISS
+  material_priorities: [fabrics, plastics]
+  source_note: Values not stated in the challenge, confirm from official resources. O2 target applies to chamber O2 only.
+- key: spacecraft
+  name: Spacecraft
+  material_priorities: [fabrics, plastics]
+  source_note: Values not stated in the challenge, confirm from official resources. O2 target applies to chamber O2 only.
+- key: mars_habitat
+  name: Mars habitat
+  material_priorities: [fabrics, plastics]
+  source_note: Values not stated in the challenge, confirm from official resources. O2 target applies to chamber O2 only.
+- key: mars_rover
+  name: Mars rover
+  material_priorities: [fabrics, plastics]
+  source_note: Values not stated in the challenge, confirm from official resources. O2 target applies to chamber O2 only.
